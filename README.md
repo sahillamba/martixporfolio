@@ -7,7 +7,7 @@ martixporfolio
 “Matrix - Animated Portfolio V-Card Template”
 Created: 5/14/2013
 By: Sahil Lamba
-Email: sahil.lamba@metainfos.com
+Email: sahil.lamba@iconablare.in
 
 
 Table of Contents
